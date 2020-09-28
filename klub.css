@@ -1,0 +1,59 @@
+body{
+	margin: 0;
+	font-family: "Times New Roman", Times, serif;
+	font-size: 18px;
+	color: #717173 ;
+	line-height: 30px;
+	background-color: black
+}
+header{
+	background-color: #1A6F6E;
+	text-align: center;
+	padding-top: 20px;
+	padding-bottom: 20px;
+
+}
+h1, h2{
+	font-family: 'Fredericka the Great', cursive;
+}
+header h1{
+	color: black  ;
+	font-size: 50px;
+}
+header img{
+	border-radius: 150px;
+	border: 5px solid black
+}
+main{
+	max-width: 800px;
+	margin: 0 auto;
+	padding: 0 20px
+}
+main img{
+	max-width: 100%;
+}
+h2{
+	font-size: 30px;
+	color: #1A6F6E;
+}
+a{
+	color: #1A6F6E
+}
+a:hover{
+	background-color: #074705;
+	color: white;
+}
+footer{
+	background-color: #1A6F6E;
+	color: black;
+}
+footer a{
+	color: black;
+}	
+footer a:hover{
+	opacity: .5;
+	background-color: transparent;
+}	
+p.caption{
+	color: white;
+}
